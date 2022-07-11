@@ -1,6 +1,6 @@
 - Hi, I’m @bridge3sian
 - Sian's repos distributed here. Feel free to follow.
-- Changing career from Accounting & Valuation to Financial Analytics.
+- Switching career from Accounting & Valuation to Financial Analytics.
 - I’m currently a graduate student @ Texas McCombs MSBA Program.
 - How to reach me
   - Email: sian.cheng@outlook.com
