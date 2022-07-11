@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bridge3sian
-- 📚 Sian's repos distributed here. Feel free to follow.
-- 👀 Changing career from Accounting & Valuation to Financial Technology.
-- 🌱 I’m currently a graduate student @ Texas McCombs MSBA Program.
-- 📫 How to reach me
-  -   Email: sian.cheng@outlook.com
-  -   LinkedIn: https://www.linkedin.com/in/sian-cheng-034522161
+- Hi, I’m @bridge3sian
+- Sian's repos distributed here. Feel free to follow.
+- Changing career from Accounting & Valuation to Financial Analytics.
+- I’m currently a graduate student @ Texas McCombs MSBA Program.
+- How to reach me
+  - Email: sian.cheng@outlook.com
+  - LinkedIn: https://www.linkedin.com/in/sian-cheng-034522161
