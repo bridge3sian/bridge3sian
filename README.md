@@ -4,4 +4,4 @@
 - Switching career from Accounting & Valuation to Financial Analytics.
 - How to reach me
   - Email: sian.cheng@outlook.com
-  - LinkedIn: linkedin.com/in/siancheng
+  - LinkedIn: https://www.linkedin.com/in/siancheng
